@@ -7,6 +7,8 @@
 - Lombok
 - Servlets
 - OpenPdf
+
+Note: all tables are in 3rd normal form, conversion between currencies as well as unit tests are not provided
   
 How to start:
 1. open project
