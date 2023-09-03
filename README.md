@@ -111,7 +111,7 @@ What project is able to do:
      <br>![изображение](https://github.com/MatveyLshkn/Clever_Bank/assets/115181274/ed28bb16-1f78-444d-81c0-904a0317981c)
      <br>Created transaction
      <br>![изображение](https://github.com/MatveyLshkn/Clever_Bank/assets/115181274/73857c8b-2d48-4e2c-8ffd-c4f7202a0c94)
-3. Creating receipts:
+3. Receipts creation:
    1. Basic check. It is being created after each money operation. Examples stored in directory "check"
    2. Account statement (prints all transactions of account for one of 3 available periods: CURRENT_MONTH, CURRENT_YEAR, WHOLE_PERIOD):
       <br>called via main method
