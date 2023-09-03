@@ -1,0 +1,18 @@
+                            Account statement
+                             Clever-Bank
+ Client               | Иван Иванов Александрович          
+ Account              | 1                   
+ Currency             | USD  
+ Opening date         | 01.01.1999
+ Period               | 01.01.1999 - 03.09.2023
+ Current date         | 03.09.2023 21:09:42
+ Balance              | 490,00           
+     Date   | Type                             | Amount
+---------------------------------------------------------------
+ 01.01.2003 | TRANSFER                         | 1235,10          
+ 30.08.2023 | REFILL                           | 500,00           
+ 30.08.2023 | WITHDRAW                         | -500,00          
+ 30.08.2023 | TRANSFER                         | -10,00           
+ 03.09.2023 | WITHDRAW                         | -100,00          
+ 03.09.2023 | REFILL                           | 100,00           
+ 03.09.2023 | TRANSFER                         | -500,00          

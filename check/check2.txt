@@ -1,0 +1,11 @@
+---------------------------------------------
+|                  Receipt                  |
+| receipt:                                2 |
+| 21:08:13                       03.09.2023 |
+| transaction type:                TRANSFER |
+| Senders bank:                  CleverBank |
+| Receivers bank:                 AlphaBank |
+| Senders Account:                        1 |
+| Receivers Account:                      2 |
+| Total:                             500,00 |
+---------------------------------------------

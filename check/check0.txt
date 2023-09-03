@@ -1,0 +1,11 @@
+---------------------------------------------
+|                  Receipt                  |
+| receipt:                                0 |
+| 21:05:02                       03.09.2023 |
+| transaction type:                WITHDRAW |
+| Senders bank:                  CleverBank |
+| Receivers bank:                           |
+| Senders Account:                        1 |
+| Receivers Account:                        |
+| Total:                             100,00 |
+---------------------------------------------

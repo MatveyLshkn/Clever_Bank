@@ -1,0 +1,11 @@
+---------------------------------------------
+|                  Receipt                  |
+| receipt:                                1 |
+| 21:06:25                       03.09.2023 |
+| transaction type:                  REFILL |
+| Senders bank:                             |
+| Receivers bank:                CleverBank |
+| Senders Account:                          |
+| Receivers Account:                      1 |
+| Total:                             100,00 |
+---------------------------------------------

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Clever-Bank">
+    <output-path>$PROJECT_DIR$/out/artifacts/Clever_Bank</output-path>
+    <root id="archive" name="Clever-Bank.war">
+      <element id="artifact" artifact-name="Clever-Bank:Web exploded" />
+    </root>
+  </artifact>
+</component>
