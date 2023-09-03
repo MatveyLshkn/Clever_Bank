@@ -14,7 +14,7 @@ How to start:
 1. open project
 2. go to src/main/resources/config.yml
 3. set your bankPersentage, set your absoluteProjectPath
-4. create your local database using file db_dump\dump.sql
+4. create your local database using file db_dump/dump.sql
 5. start tomcat server
 6. you are ready to go!
 7. some operations like withdraw, transfer, refill, printAccountStatement work in main method, so you don't have to start tomcat server for this 
