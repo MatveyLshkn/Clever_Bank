@@ -13,14 +13,14 @@ Note: all tables are in 3rd normal form, conversion between currencies as well a
 How to start:
 1. open project
 2. go to src/main/resources/config.yml
-3. set your bankPersentage, set your absoluteProjectPath
+3. set your bankPercentage, set your absoluteProjectPath
 4. create your local database using file db_dump/dump.sql
 5. start tomcat server
 6. you are ready to go!
-7. some operations like withdraw, transfer, refill, printAccountStatement work in main method, so you don't have to start tomcat server for this 
+7. some operations like withdraw, transfer, refill, printAccountStatement work in the main method, so you don't have to start tomcat server for this 
 
 
-What project is able to do:
+Main functions of the project:
 1. CRUD operations:
    1. For transaction entities:
       - get
@@ -127,7 +127,7 @@ What project is able to do:
 4. Charge percentage (works, when tomcat server is running):
    <br>Regularly, according to a schedule (once every half a minute), program checks whether it is necessary to charge
    percentage (1% - the value is substituted from the configuration file config.yml) on the remainder
-   bills at the end of the month      
+   balance at the end of the month      
 
   
 
