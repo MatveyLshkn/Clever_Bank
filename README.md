@@ -1,5 +1,5 @@
 # Clever_Bank
- Stack: 
+## Stack: 
 - Java 17
 - Gradle
 - PostgreSQL
@@ -10,7 +10,7 @@
 
 Note: all tables are in 3rd normal form, conversion between currencies as well as unit tests are not provided
   
-How to start:
+## How to start:
 1. open project
 2. go to src/main/resources/config.yml
 3. set your bankPercentage, set your absoluteProjectPath
@@ -20,7 +20,7 @@ How to start:
 7. some operations like withdraw, transfer, refill, printAccountStatement work in the main method, so you don't have to start tomcat server for this 
 
 
-Main functions of the project:
+## Main functions of the project:
 1. CRUD operations:
    1. For transaction entities:
       - get
